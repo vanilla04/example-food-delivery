@@ -1,9 +1,11 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
-L2 평가를 위한 체크포인트 :
-1. Saga (Pub / Sub)
-2. CQRS
-3. Compensation / Correlation
+
+# L2 평가를 위한 체크포인트 : 
+
+1. Saga (Pub / Sub) 
+2. 2. CQRS 
+3. 3. Compensation / Correlation 
 
 ![image](https://user-images.githubusercontent.com/37572166/225041811-f67ea3ab-c2aa-4da2-8464-19e28402c2e0.png)
 
