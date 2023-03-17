@@ -4,10 +4,18 @@
 # L2 평가를 위한 체크포인트 : 
 
 # 1. Saga (Pub / Sub) 
+![image](https://user-images.githubusercontent.com/37572166/225041811-f67ea3ab-c2aa-4da2-8464-19e28402c2e0.png)
+
+
+
 # 2. CQRS 
+
+
+
 # 3. Compensation / Correlation 
 
-![image](https://user-images.githubusercontent.com/37572166/225041811-f67ea3ab-c2aa-4da2-8464-19e28402c2e0.png)
+
+
 
 # 예제 - 음식배달
 
