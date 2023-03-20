@@ -4,7 +4,7 @@
 # L2 평가를 위한 체크포인트 : 
 
 ## 1. Saga (Pub / Sub) 
-![image](https://user-images.githubusercontent.com/37572166/225041811-f67ea3ab-c2aa-4da2-8464-19e28402c2e0.png)
+![image](https://user-images.githubusercontent.com/37572166/226304135-01833a3a-33e2-4dc8-a583-941c6f1d2737.png)
 
 
 
@@ -13,7 +13,6 @@
 
 
 ## 3. Compensation / Correlation 
-![image](https://user-images.githubusercontent.com/37572166/226304135-01833a3a-33e2-4dc8-a583-941c6f1d2737.png)
 
 
 
