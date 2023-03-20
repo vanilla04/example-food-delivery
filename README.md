@@ -9,7 +9,7 @@
 
 
 ## 2. CQRS 
-
+![그림1](https://user-images.githubusercontent.com/37572166/226303285-ba5a62f2-14a6-4475-8179-777e10849851.png)
 
 
 ## 3. Compensation / Correlation 
