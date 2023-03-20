@@ -11,6 +11,7 @@
 ## 2. CQRS 
 ![image](https://user-images.githubusercontent.com/37572166/226303285-ba5a62f2-14a6-4475-8179-777e10849851.png)
 
+![ㅁㄴㅇㄹ](https://user-images.githubusercontent.com/37572166/226306028-9ccdcfeb-4852-4ae6-8864-ad34bad8f861.png)
 
 ## 3. Compensation / Correlation 
 
